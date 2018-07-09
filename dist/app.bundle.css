@@ -1,0 +1,22 @@
+body {
+  height: 100%; }
+#save-button {
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 1px solid black;
+  padding: 4px 8px;
+  display: inline-block;
+  user-select: none;
+  cursor: pointer; }
+  #save-button:hover {
+    background-color: #eaeaea; }
+
+#load-table {
+  margin-top: 10px;
+  margin-left: 20px; }
+.table-cell {
+  border-left: 1px solid black;
+  border-top: 1px solid black;
+  display: inline; }
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJhcHAuYnVuZGxlLmNzcyIsInNvdXJjZVJvb3QiOiIifQ==*/

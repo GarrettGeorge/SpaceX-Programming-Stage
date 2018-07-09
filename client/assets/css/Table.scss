@@ -1,0 +1,19 @@
+#save-button {
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 1px solid black;
+  padding: 4px 8px;
+  display: inline-block;
+  user-select: none;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #eaeaea;
+  }
+}
+
+#load-table {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
